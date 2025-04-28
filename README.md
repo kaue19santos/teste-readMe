@@ -15,7 +15,7 @@ Ou instale o Angular CLI com o comando:
 ```bash
 npm install -g @angular/cli@17
 ```
-Clonando o Projeto e Instalando Dependências
+### 💻 Clonando o Projeto e o Executando
 
 Passo 1: Clonar o Repositório
 Para clonar o repositório em seu diretório local, execute:
@@ -36,7 +36,7 @@ Acesse no navegador:
 http://localhost:4200
 ```
 ## 🛠️ Dependências Necessárias
-Antes de iniciar o projeto, é necessário instalar as seguintes dependências em sua máquina:
+Antes de iniciar o projeto, é necessário ter as seguintes dependências instaladas em sua máquina.
 
 Passo 1: Instalar as Dependências
 ### 🔧 Node.js
