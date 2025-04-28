@@ -36,7 +36,8 @@ Acesse no navegador:
 http://localhost:4200
 ```
 ## 🛠️ Dependências Necessárias
-Antes de iniciar o projeto, é necessário ter as seguintes dependências instaladas em sua máquina:
+Antes de iniciar o projeto, é necessário instalar as seguintes dependências em sua máquina:
+
 Passo 1: Instalar as Dependências
 ### 🔧 Node.js
 Certifique-se de estar usando a versão correta do Node.js especificada pelo projeto (18 ou superior), garantindo compatibilidade e funcionamento adequado. Em sistemas Windows, a execução do comando npm install pode exigir privilégios administrativos para evitar erros de instalação. Se necessário, abra o terminal com permissões de administrador.
