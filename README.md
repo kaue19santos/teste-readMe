@@ -24,9 +24,13 @@ git clone https://github.com/kaue19santos/teste-readMe.git
 ```
 <!-- LEMBRAR DE TROCAR LINK ACIMA -->
 Passo 2: Navegar para o Diretório do Projeto
+
 Acesse o diretório clonado:
+```bash
 cd pdEad
+```
 Passo 3: Executar o projeto em modo de desenvolvimento
+
 Execute:
 ```bash
 ng serve
@@ -38,8 +42,7 @@ http://localhost:4200
 ## 🛠️ Dependências Necessárias
 Antes de iniciar o projeto, é necessário ter as seguintes dependências instaladas em sua máquina.
 
-Passo 1: Instalar as Dependências
-### 🔧 Node.js
+### 🔧 Instalar o Node.js
 Certifique-se de estar usando a versão correta do Node.js especificada pelo projeto (18 ou superior), garantindo compatibilidade e funcionamento adequado. Em sistemas Windows, a execução do comando npm install pode exigir privilégios administrativos para evitar erros de instalação. Se necessário, abra o terminal com permissões de administrador.
 Para verificar a versão do Node.js instalada, execute:
 ```bash
