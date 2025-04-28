@@ -16,6 +16,7 @@ Ou instale o Angular CLI com o comando:
 npm install -g @angular/cli@17
 ```
 Clonando o Projeto e Instalando Dependências
+
 Passo 1: Clonar o Repositório
 Para clonar o repositório em seu diretório local, execute:
 ```bash
